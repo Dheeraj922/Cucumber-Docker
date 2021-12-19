@@ -1,0 +1,11 @@
+{
+  "users" : [
+    {
+      "user" : {
+        "id": "user1",
+        "email": "user@phptravels.com",
+        "password": "demouser"
+      }
+    }
+  ]
+}
